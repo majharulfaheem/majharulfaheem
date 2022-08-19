@@ -1,4 +1,4 @@
-<h1 align="center">Hell0 There! Welcome to my profile 👋</h1>
+<h1 align="center">Hello There! Welcome to my profile 👋</h1>
 <h3 align="center">A passionate Computer Science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majharulfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="majharulfaheem" /> </p>
