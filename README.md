@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Competitive programming**
 
-- 🤝 I’m looking for help with **Nonprofit Social Works**
-
 - 📫 How to reach me **majharulfaheem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
