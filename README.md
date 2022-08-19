@@ -9,7 +9,7 @@
 
 - 🎯 I’m looking to collaborate on **Competitive programming**
 
-- 📫 How to reach me **majharulfaheem@gmail.com**
+- 💬 How to reach me **majharulfaheem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
