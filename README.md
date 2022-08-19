@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majharulfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="majharulfaheem" /> </p>
 
-- 💻 I’m currently working on **Problem solving**
+- 💻 Right now I'm working on **Problem solving**
 
-- 📘 I’m currently learning **C++**
+- 📘 I’m also learning **C++**
 
 - 🎯 I’m looking to collaborate on **Competitive programming**
 
