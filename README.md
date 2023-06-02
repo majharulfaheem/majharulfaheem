@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, Faheem this side! 👋</h1>
+<h1 align="center">Hello World, Faheem this side! </h1>
 <h3 align="center">EAT | CODE | SLEEP < repeat </h3>
  <h3 align="center">📩 majharulfaheem@ieee.org</h3>
 
