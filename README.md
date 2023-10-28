@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majharulfaheem&label=Profile%20views&color=0e75b6&style=flat" alt="majharulfaheem" /> </p>
 
-[https://holopin.io/@majharulfaheem](https://holopin.me/majharulfaheem)
+[![An image of @majharulfaheem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/majharulfaheem)]
 
  💻  Right now I'm working on **Problem Solving**
 
